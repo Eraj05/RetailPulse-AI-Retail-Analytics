@@ -1,0 +1,8 @@
+Metric,Value
+TotalProducts,3921.0
+TotalDemand,5417210.0
+AverageDailyDemand,3.69
+AverageSafetyStock,51.49
+TotalSuggestedOrderQuantity,185013.97
+ExcludedExceptionTransactions,2.0
+ExcludedExceptionQuantity,155210.0
